@@ -1,0 +1,7 @@
+{
+  "name": "npm-check-updates",
+  "version": "6.0.0",
+  "dependencies": {
+    "npm-check-updates": "6.0.0"
+  }
+}
