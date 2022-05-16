@@ -163,7 +163,7 @@ let
       version = "2.1.1";
       src = fetchurl {
         url = "https://registry.npmjs.org/ansi-regex/-/ansi-regex-2.1.1.tgz";
-        sha1 = "c3b33ab5ee360d86e0e628f0468ae7ef27d654df";
+        sha512 = "TIGnTpdo+E3+pCyAluZvtED5p5wCqLdezCyhPZzKPcxvFplEt4i+W7OONCKgeZFT3+y5NZZfOOS/Bdcanm1MYA==";
       };
     };
     "ansi-regex-5.0.1" = {
@@ -181,7 +181,7 @@ let
       version = "2.2.1";
       src = fetchurl {
         url = "https://registry.npmjs.org/ansi-styles/-/ansi-styles-2.2.1.tgz";
-        sha1 = "b432dd3358b634cf75e1e4664368240533c1ddbe";
+        sha512 = "kmCevFghRiWM7HB5zTPULl4r9bVFSWjz62MhqizDGUrq2NWuNMQyuv4tHHoKJHs69M/MF64lEcHdYIocrdWQYA==";
       };
     };
     "ansi-styles-4.3.0" = {
@@ -235,7 +235,7 @@ let
       version = "1.0.0";
       src = fetchurl {
         url = "https://registry.npmjs.org/assert-plus/-/assert-plus-1.0.0.tgz";
-        sha1 = "f12e0f3c5d77b0b1cdd9146942e4e96c1e4dd525";
+        sha512 = "NfJ4UzBCcQGLDlQq7nHxH+tv3kyZ0hHQqF5BO6J7tNJeP5do1llPr8dZ8zHonfhAu0PHAdMkSo+8o0wxg9lZWw==";
       };
     };
     "asynckit-0.4.0" = {
@@ -244,7 +244,7 @@ let
       version = "0.4.0";
       src = fetchurl {
         url = "https://registry.npmjs.org/asynckit/-/asynckit-0.4.0.tgz";
-        sha1 = "c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79";
+        sha512 = "Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==";
       };
     };
     "aws-sign2-0.7.0" = {
@@ -253,7 +253,7 @@ let
       version = "0.7.0";
       src = fetchurl {
         url = "https://registry.npmjs.org/aws-sign2/-/aws-sign2-0.7.0.tgz";
-        sha1 = "b46e890934a9591f2d2f6f86d7e6a9f1b3fe76a8";
+        sha512 = "08kcGqnYf/YmjoRhfxyu+CLxBjUtHLXLXX/vUfx9l2LYzG3c1m61nrpyFUZI6zeS+Li/wWMMidD9KgrqtGq3mA==";
       };
     };
     "aws4-1.11.0" = {
@@ -280,7 +280,7 @@ let
       version = "1.0.2";
       src = fetchurl {
         url = "https://registry.npmjs.org/bcrypt-pbkdf/-/bcrypt-pbkdf-1.0.2.tgz";
-        sha1 = "a4301d389b6a43f9b67ff3ca11a3f6637e360e9e";
+        sha512 = "qeFIXtP4MSoi6NLqO12WfqARWWuCKi2Rn/9hJLEmtB5yTNr9DqFWkJRCf2qShWzPeAMRnOgCrq0sg/KLv5ES9w==";
       };
     };
     "boxen-4.2.0" = {
@@ -307,7 +307,7 @@ let
       version = "1.0.3";
       src = fetchurl {
         url = "https://registry.npmjs.org/builtins/-/builtins-1.0.3.tgz";
-        sha1 = "cb94faeb61c8696451db36534e1422f94f0aee88";
+        sha512 = "uYBjakWipfaO/bXI7E8rq6kpwHRZK5cNYrUv2OzZSI/FvmdMyXJ2tG9dKcjEC5YHmHpUAwsargWIZNWdxb/bnQ==";
       };
     };
     "cacache-15.3.0" = {
@@ -343,7 +343,7 @@ let
       version = "0.12.0";
       src = fetchurl {
         url = "https://registry.npmjs.org/caseless/-/caseless-0.12.0.tgz";
-        sha1 = "1b681c21ff84033c826543090689420d187151dc";
+        sha512 = "4tYFyifaFfGacoiObjJegolkwSU4xQNGbVgUiNYVUxbQ2x2lUsFvY4hVgVzGiIe6WLOPqycWXA40l+PWsxthUw==";
       };
     };
     "chalk-1.1.3" = {
@@ -352,7 +352,7 @@ let
       version = "1.1.3";
       src = fetchurl {
         url = "https://registry.npmjs.org/chalk/-/chalk-1.1.3.tgz";
-        sha1 = "a8115c55e4a702fe4d150abd3872822a7e09fc98";
+        sha512 = "U3lRVLMSlsCfjqYPbLyVv11M9CPW4I728d6TCKMAOJueEeB9/8o+eSsMnxPJD+Q+K909sdESg7C+tIkoH6on1A==";
       };
     };
     "chalk-3.0.0" = {
@@ -397,7 +397,7 @@ let
       version = "8.2.1";
       src = fetchurl {
         url = "https://registry.npmjs.org/cint/-/cint-8.2.1.tgz";
-        sha1 = "70386b1b48e2773d0d63166a55aff94ef4456a12";
+        sha512 = "gyWqJHXgDFPNx7PEyFJotutav+al92TTC3dWlMFyTETlOyKBQMZb7Cetqmj3GlrnSILHwSJRwf4mIGzc7C5lXw==";
       };
     };
     "clean-stack-2.2.0" = {
@@ -868,13 +868,13 @@ let
         sha1 = "5eff8e3e684d569ae4cb2b1282604e8ba62149fa";
       };
     };
-    "glob-7.2.2" = {
+    "glob-7.2.3" = {
       name = "glob";
       packageName = "glob";
-      version = "7.2.2";
+      version = "7.2.3";
       src = fetchurl {
-        url = "https://registry.npmjs.org/glob/-/glob-7.2.2.tgz";
-        sha512 = "NzDgHDiJwKYByLrL5lONmQFpK/2G78SMMfo+E9CuGlX4IkvfKDsiQSNPwAYxEy+e6p7ZQ3uslSLlwlJcqezBmQ==";
+        url = "https://registry.npmjs.org/glob/-/glob-7.2.3.tgz";
+        sha512 = "nFR0zLpU2YCaRxwoCJvL6UvCH2JFyFVIvwTLsIf21AuHlMskA1hhTdk+LlYJtOlYt9v6dvszD2BGRqBL+iQK9Q==";
       };
     };
     "global-dirs-2.1.0" = {
@@ -1640,15 +1640,6 @@ let
       src = fetchurl {
         url = "https://registry.npmjs.org/npm-bundled/-/npm-bundled-1.1.2.tgz";
         sha512 = "x5DHup0SuyQcmL3s7Rx/YQ8sbw/Hzg0rj48eN0dV7hf5cmQq5PXIeioroH3raV1QC1yh3uTYuMThvEQF3iKgGQ==";
-      };
-    };
-    "npm-check-updates-6.0.0" = {
-      name = "npm-check-updates";
-      packageName = "npm-check-updates";
-      version = "6.0.0";
-      src = fetchurl {
-        url = "https://registry.npmjs.org/npm-check-updates/-/npm-check-updates-6.0.0.tgz";
-        sha512 = "nbKfHWXtQ376OeaoLvekheEqg7GMsL+ZMnXWlNdrGGAVcOJ8CNg2IE9g2q6yRMFw2JM5LEa/zF771RPPBTZPPw==";
       };
     };
     "npm-install-checks-4.0.0" = {
@@ -2525,11 +2516,16 @@ let
       };
     };
   };
-  args = {
+in
+{
+  "npm-check-updates-6.0.0" = nodeEnv.buildNodePackage {
     name = "npm-check-updates";
     packageName = "npm-check-updates";
     version = "6.0.0";
-    src = ./.;
+    src = fetchurl {
+      url = "https://registry.npmjs.org/npm-check-updates/-/npm-check-updates-6.0.0.tgz";
+      sha512 = "nbKfHWXtQ376OeaoLvekheEqg7GMsL+ZMnXWlNdrGGAVcOJ8CNg2IE9g2q6yRMFw2JM5LEa/zF771RPPBTZPPw==";
+    };
     dependencies = [
       sources."@gar/promisify-1.1.3"
       sources."@npmcli/fs-1.1.1"
@@ -2640,7 +2636,7 @@ let
       sources."get-stdin-8.0.0"
       sources."get-stream-4.1.0"
       sources."getpass-0.1.7"
-      sources."glob-7.2.2"
+      sources."glob-7.2.3"
       (sources."global-dirs-2.1.0" // {
         dependencies = [
           sources."ini-1.3.7"
@@ -2743,7 +2739,6 @@ let
       sources."nopt-5.0.0"
       sources."normalize-url-4.5.1"
       sources."npm-bundled-1.1.2"
-      sources."npm-check-updates-6.0.0"
       sources."npm-install-checks-4.0.0"
       sources."npm-normalize-package-bin-1.0.1"
       sources."npm-package-arg-8.1.5"
@@ -2861,28 +2856,12 @@ let
     ];
     buildInputs = globalBuildInputs;
     meta = {
+      description = "Find newer versions of dependencies than what your package.json or bower.json allows";
+      homepage = "https://github.com/tjunnone/npm-check-updates";
+      license = "Apache-2.0";
     };
     production = true;
     bypassCache = true;
     reconstructLock = true;
   };
-in
-{
-  args = args;
-  sources = sources;
-  tarball = nodeEnv.buildNodeSourceDist args;
-  package = nodeEnv.buildNodePackage args;
-  shell = nodeEnv.buildNodeShell args;
-  nodeDependencies = nodeEnv.buildNodeDependencies (lib.overrideExisting args {
-    src = stdenv.mkDerivation {
-      name = args.name + "-package-json";
-      src = nix-gitignore.gitignoreSourcePure [
-        "*"
-        "!package.json"
-        "!package-lock.json"
-      ] args.src;
-      dontBuild = true;
-      installPhase = "mkdir -p $out; cp -r ./* $out;";
-    };
-  });
 }
